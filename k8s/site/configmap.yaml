@@ -13,6 +13,6 @@ data:
       <body>
         <h1>Bienvenue sur mon site</h1>
         <p> fait par LEDRU Victor, groupe RS2</p>
-        <p>Servi par Kubernetes.</p>
+        <p>Servi par Kubernetes et modifié à 15h.</p>
       </body>
     </html>
